@@ -1,0 +1,11 @@
+;DATE    CODE_OUT    HOST_OUT    CODE_IN    HOST_IN    TOTAL    NAME_OUT                     NAME_IN 
+230621	 -222	     gan         -335	    gan	   	
+240621	 -200	     gan         -338	    gan			mnist_gan
+250621	 -221	     gan         -335	    gan			mnist_dcgan
+260621	 -000		         -000	  	
+270621	 -000		         -000	
+280621	 -225	     gan	 -334	    gan			save_load_mnist_gan
+290621	 -223	     gan	 -333       gan 		load_train_mnist_gan
+300621	 -223	     dunggan	 -333	    gan	        	fix_tf2_mnist_dcgan
+010721   -223	     dunggan	 -333       gan	       4	setup_dunggan_colab
+0210721						       4
