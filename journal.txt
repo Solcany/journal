@@ -8,5 +8,8 @@
 290621	 -223	     gan	 -333       gan 		load_train_mnist_gan
 300621	 -223	     dunggan	 -333	    gan	        	fix_tf2_mnist_dcgan
 010721   -223	     dunggan	 -333       gan	       4	setup_dunggan_colab
-0210721	 +254	     dunggan	 -311		       2.5	first_dunggan
-0210721	 -164	     portfolio	 -000		       2	
+020721	 +254	     dunggan	 -311		       2.5	first_tf1_dunggan
+020721	 -164	     portfolio	 -000		       2	
+030721	 -000			 -000
+040721   -259	     dunggan	 -000	               1.5
+	 
