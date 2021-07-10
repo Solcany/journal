@@ -1,4 +1,4 @@
-;DATE    CODE_OUT    HOST_OUT    CODE_IN    HOST_IN    TOTAL    NAME_OUT                     NAME_IN 
+;DATE    CODE_OUT    HOST_OUT    CODE_IN    HOST_IN    TOTAL    NAME_OUT                    NAME_IN 
 230621	 -222	     gan         -335	    gan	   	
 240621	 -200	     gan         -338	    gan			mnist_gan
 250621	 -221	     gan         -335	    gan			mnist_dcgan
@@ -12,4 +12,9 @@
 020721	 -164	     portfolio	 -000		       2	
 030721	 -000			 -000
 040721   -259	     dunggan	 -000	               1.5
-	 
+050721	 -161	     portfolio   -000		       4
+050721	 -164	     portfolio   -000		       4
+060721	 -164	     portfolio   -000		       4
+070721	 -251	     dunggan	 -000		       4
+080721	 -251	     dunggan	 -000		       2
+090721	 -218	     dunggan     -000 		       3        first_latent_walk	 
