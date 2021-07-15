@@ -17,4 +17,13 @@
 060721	 -164	     portfolio   -000		       4
 070721	 -251	     dunggan	 -000		       4
 080721	 -251	     dunggan	 -000		       2
-090721	 -218	     dunggan     -000 		       3        first_latent_walk	 
+090721	 -218	     dunggan     -000 		       3        first_latent_walk
+100721	 -000			 -000				
+110721	 -000			 -000	 
+120721	 -255	     dunggan	 -000		       3.5	gray_sle_gan
+120721	 -162        portfolio	 -000	   	       1
+130721	 -252	     dunggan	 -000		       3	
+130721	 -162	     portfolio	 -000		       1.5      
+140721   -252	     dunggan	 -000		       4
+140721   -165	     portfolio	 -000		       1
+150721
