@@ -131,7 +131,7 @@ total_entry = args.total
 name_entry = args.name
 image_entry = args.image
 
-entry = "{0} {1}       {2}  {3}   {4}".format(date_entry, activity_entry, productivity_entry, total_entry, host_entry)
+entry = "{0} {1}       {2}   {3}   {4}".format(date_entry, activity_entry, productivity_entry, total_entry, host_entry)
 
 if(args.name):
 	padding = ' ' * (HOST_ENTRY_MAX_CHARS - len(args.host) + 1)

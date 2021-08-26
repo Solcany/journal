@@ -1,73 +1,80 @@
-;DATE  ACTIVITY	PROD TIME  HOST                 NAME                 IMAGE
-230621 23       0.2  1.5   gan
-240621 00       0.0  0.0                      
-250621 23       0.2  1.5   gan                  mnist_dcgan
-260621 00       0.0  0.0  
-270621 00       0.0  0.0
-280621 25       0.5  1.5   gan                  save_load_mnist_gan
-290621 23       0.3  1.5   gan                  load_train_mnist_gan
-300621 23       0.3  1.5   dunggan	 	        fix_tf2_mnist_dcgan
-010721 23	    0.3  2.0   dunggan              setup_dunggan_colab
-020721 25	    0.4  2.5   dunggan              first_tf1_dunggan
-020721 16       0.4  2.0   portfolio
-030721 00       0.0  0.0
-040721 25	    0.9  1.5   dunggan
-050721 16	    0.4  4.0   portfolio
-060721 16       0.4  4.0   portfolio
-070721 25	    0.1  4.0   dunggan
-080721 25       0.1  2.0   dunggan
-090721 23       0.8  3.0   dunggan              first_latent_walk
-100721 00       0.0  0.0			
-110721 00       0.0  0.0
-120721 25	    0.5  3.5   dunggan              gray_sle_gan
-120721 16       0.2  1.0   portfolio
-130721 25       0.2  3.0   dunggan	
-130721 16       0.2	 1.5   portfolio     
-140721 25       0.2  4.0   dunggan
-140721 16       0.5	 1.0   portfolio
-150721 16       0.5  3.0   portfolio
-150721 25       0.5  1.0   dunggan
-160721 25       0.4	 3.0   dunggan
-160721 16       0.5  1.0   portfolio
-170721 00       0.0  0.0
-180721 00       0.0  0.0
-190721 25       0.5	 1.0   dunggan
-190721 25       0.3  3.0   portfolio
-200721 23       0.5	 1.0   untold_stories
-200721 25       0.7  3.0   portfolio
-210721 00       0.0  0.0
-210721 26       0.5	 1.0   immutable_town
-210721 25       0.6  2.0   dunggan
-220721 25       0.7	 4.0   dunggan              sle_dg_latent_walk
-230721 25       0.3	 1.5   dunggan	
-230721 00       0.0  0.0
-240721 00       0.0  0.0
-250721 26       0.5  1.0   immutable_town
-260721 26       0.5  1.0   immutable_town
-270721 21       0.3  1.5   dunggan
-280721 00       0.0  0.0
-290721 00       0.0  0.0  
-300721 00       0.0  0.0  
-310721 00       0.0  0.0
-010821 00       0.0  0.0  
-020821 36       0.4  2.0   freelance
-030821 14       0.4  2.0   dunggan
-040821 34       0.1  3.0   ls_cartography       stymfonds_grant
-050821 00       0.0  0.0
-060821 00       0.0  0.0  
-070821 00       0.0  0.0  
-080821 00       0.0  0.0
-090821 00       0.0  0.0  
-100821 34       0.3  3.0   ls_cartography
-110821 34       0.2  4.0   ls_cartography
-120821 34       0.2  4.0   ls_cartography
-130821 36       0.2  4.0   ls_cartography
-140821 00       0.0  0.0  
-150821 00       0.0  0.0  
-160821 36       0.1  8.0   ls_cartography
-170821 35       0.4  8.0   ls_cartography
-180821 38       0.6  10.0  ls_cartography       submit_grant
-190821 00       0.0  0.0  
-200821 28       0.6  4.0   journal              journal_cli
-210821 36       0.8  0.5   ls_cartography
-220821 36       0.5  4.0   ls_cartography       submit_fixed_grant
+;DATE  ACTIVITY	FOCUS TIME  HOST                 NAME                 IMAGE
+230621 23       0.2   1.5   gan
+240621 00       0.0   0.0                      
+250621 23       0.2   1.5   gan                  mnist_dcgan
+260621 00       0.0   0.0  
+270621 00       0.0   0.0
+280621 25       0.5   1.5   gan                  save_load_mnist_gan
+290621 23       0.3   1.5   gan                  load_train_mnist_gan
+300621 23       0.3   1.5   dunggan              fix_tf2_mnist_dcgan
+010721 23       0.3   2.0   dunggan              setup_dunggan_colab
+020721 25       0.4   2.5   dunggan              first_tf1_dunggan
+020721 16       0.4   2.0   portfolio
+030721 00       0.0   0.0
+040721 25       0.9   1.5   dunggan
+050721 16       0.4   4.0   portfolio
+060721 16       0.4   4.0   portfolio
+070721 25       0.1   4.0   dunggan
+080721 25       0.1   2.0   dunggan
+090721 23       0.8   3.0   dunggan              first_latent_walk
+100721 00       0.0   0.0			
+110721 00       0.0   0.0
+120721 25       0.5   3.5   dunggan              gray_sle_gan
+120721 16       0.2   1.0   portfolio
+130721 25       0.2   3.0   dunggan	
+130721 16       0.2   1.5   portfolio     
+140721 25       0.2   4.0   dunggan
+140721 16       0.5   1.0   portfolio
+150721 16       0.5   3.0   portfolio
+150721 25       0.5   1.0   dunggan
+160721 25       0.4   3.0   dunggan
+160721 16       0.5   1.0   portfolio
+170721 00       0.0   0.0
+180721 00       0.0   0.0
+190721 25       0.5   1.0   dunggan
+190721 25       0.3   3.0   portfolio
+200721 23       0.5   1.0   untold_stories
+200721 25       0.7   3.0   portfolio
+210721 00       0.0   0.0
+210721 26       0.5   1.0   immutable_town
+210721 25       0.6   2.0   dunggan
+220721 25       0.7   4.0   dunggan              sle_dg_latent_walk
+230721 25       0.3   1.5   dunggan	
+230721 00       0.0   0.0
+240721 00       0.0   0.0
+250721 26       0.5   1.0   immutable_town
+260721 26       0.5   1.0   immutable_town
+270721 21       0.3   1.5   dunggan
+280721 00       0.0   0.0
+290721 00       0.0   0.0  
+300721 00       0.0   0.0  
+310721 00       0.0   0.0
+010821 00       0.0   0.0  
+020821 36       0.4   2.0   freelance
+030821 14       0.4   2.0   dunggan
+040821 34       0.1   3.0   ls_cartography       stymfonds_grant
+050821 00       0.0   0.0
+060821 00       0.0   0.0  
+070821 00       0.0   0.0  
+080821 00       0.0   0.0
+090821 00       0.0   0.0  
+100821 34       0.3   3.0   ls_cartography
+110821 34       0.2   4.0   ls_cartography
+120821 34       0.2   4.0   ls_cartography
+130821 36       0.2   4.0   ls_cartography
+140821 00       0.0   0.0  
+150821 00       0.0   0.0  
+160821 36       0.1   8.0   ls_cartography
+170821 35       0.4   8.0   ls_cartography
+180821 38       0.6   10.0  ls_cartography       submit_grant
+190821 00       0.0   0.0  
+200821 28       0.6   4.0   journal              journal_cli
+210821 36       0.8   0.5   ls_cartography
+220821 36       0.5   4.0   ls_cartography       submit_fixed_grant
+230821 22       0.7   3.0   journal              add_missing_entries
+240821 36       0.4   1.0   freelance
+240821 35       0.3   2.0   jobsearch            resn_application
+240821 35       0.3   2.0   jobsearch
+250821 36       0.6   2.0   jobsearch
+250821 36       0.6   3.0   whac_a_mole          implement_sound
+260821 35       0.6   1.0   ls_cartography       adjust_budget
