@@ -76,5 +76,10 @@
 240821 35       0.3   2.0   jobsearch            resn_application
 240821 35       0.3   2.0   jobsearch
 250821 36       0.6   2.0   jobsearch
-250821 36       0.6   3.0   whac_a_mole          implement_sound
+250821 25       0.6   3.0   whac_a_mole          implement_sound
 260821 35       0.6   1.0   ls_cartography       adjust_budget
+260821 25       0.6   2.0   whac_a_mole
+260821 22       0.6   1.5   ira_bots
+270821 36       0.2   4.0   jobsearch
+280821 00       0.0   0.0   
+290821 25       0.6   1.5   ls_cartography
