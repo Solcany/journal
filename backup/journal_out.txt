@@ -85,25 +85,3 @@
 290821 25       0.6   1.5   ls_cartography
 300821 31       0.4   1.0   portfolio
 310821 31       0.7   4.0   portfolio
-310821 36       0.2   0.7   jobsearch
-010921 22       0.6   1.5   portfolio
-010921 36       0.4   1.0   jobsearch
-020921 22       0.4   2.0   portfolio
-030921 22       0.4   2.0   portfolio
-040921 00       0.0   0.0   
-050921 00       0.0   0.0   
-060921 00       0.0   0.0   
-070921 35       0.3   4.0   jobsearch
-080921 35       0.3   3.0   jobsearch
-090921 00 		0.0   0.0
-100921 35       0.5   4.0   jobsearch            dept_application
-110921 00       0.0   0.0   
-120921 00       0.0   0.0
-130921 00       0.0   0.0
-140921 23       0.6   1.5   ilicibis
-150921 23       0.4   5.0   ilicibis
-160921 35       0.6   2.0   jobsearch
-160921 25       0.6   3.0   ilicibis
-170921 35       0.4   3.0   jobsearch
-180921 25       0.6   4.0   ilicibis
-190921 00       0.0   0.0   

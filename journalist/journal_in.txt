@@ -1,0 +1,23 @@
+;DATE  ACTIVITY	FOCUS TIME  HOST                 NAME                 IMAGE
+230621 45	    0.5   1.5   gan	   	
+240621 45	    0.8   1.5   gan			
+250621 45	    0.5   1.5   gan			
+280621 45	    0.4   1.5   gan	
+290621 45       0.3   1.5   gan 		
+300621 45	    0.3   1.5   gan	        	
+010721 45       0.3   1.5   gan	  
+020721 42		0.1   1.0   gan
+210721 42	    0.4   1.5   stimuleringfonds
+230721 42	    0.3   1.5	dunggan
+230721 42	    0.4   1.0   stimuleringfonds
+240721 45       0.8   1.5   ls_cartography
+030821 41       0.4   1.0   dunggan
+040821 42       0.1   3.0   stymuleringsfonds
+300821 41       0.6   2.0   ls_cartography
+040921 43       0.6   1.5   C
+050921 43       0.6   1.5   C
+060921 43       0.6   3.0   C
+080921 43       0.9   1.8   C++
+100921 43       0.6   2.0   C++
+110921 43       0.6   2.0   C++
+130921 43       0.6   4.0   c++
