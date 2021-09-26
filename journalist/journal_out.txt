@@ -107,3 +107,9 @@
 170921 35       0.4   3.0   jobsearch
 180921 25       0.6   4.0   ilicibis
 190921 00       0.0   0.0   
+200921 35       0.1   8.0   jobsearch
+210921 35       0.3   4.0   jobsearch            frog_application
+220921 00       0.0   0.0   
+230921 00       0.0   0.0   
+240921 25       0.4   3.0   ilicibis
+250921 25       0.4   2.0   ilicibis
