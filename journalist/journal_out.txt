@@ -117,3 +117,6 @@
 260921 24       0.4   0.5   ilicibis
 270921 25       0.5   4.0   ilicibis
 280921 25       0.5   5.0   ilicibis
+290921 25       0.6   5.0   ilicibis
+300921 25       0.6   5.0   ilicibis
+011021 25       0.6   4.0   ilicibis
