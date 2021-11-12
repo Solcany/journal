@@ -27,3 +27,5 @@
 261021 42       0.3   4.0   pandas
 051121 43       0.6   3.0   ls_cartography
 091121 43       0.6   1.5   ls_cartopgrahy
+101121 42       0.6   1.5   ls_cartography
+111121 42       0.6   1.5   ls_cartography
