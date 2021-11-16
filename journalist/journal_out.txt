@@ -161,3 +161,9 @@
 091121 13       0.6   1.5   ls_cartography
 101121 13       0.6   1.5   ls_cartography
 111121 13       0.6   1.5   ls_cartography
+121121 16       0.4   5.0   ls_cartography_web
+121121 00       0.4   5.0   
+131121 16       0.6   1.5   ls_cartography_web
+141121 16       0.6   1.5   ls_cartography_web
+141121 00       0.6   1.5   
+151121 26       0.5   5.0   ls_cartography_web
