@@ -162,14 +162,14 @@
 101121 13       0.6   1.5   ls_cartography
 111121 13       0.6   1.5   ls_cartography
 121121 16       0.4   5.0   ls_cartography_web
-121121 00       0.4   5.0   
 131121 16       0.6   1.5   ls_cartography_web
 141121 16       0.6   1.5   ls_cartography_web
-141121 00       0.6   1.5   
 151121 26       0.5   5.0   ls_cartography_web
 161121 27       0.7   1.5   ls_cartography_web
 171121 23       0.7   3.0   ls_cartography       sample_hypersphere
 181121 23       0.7   3.0   ls_cartography
-191121 26       0.7   3.0   ls_cartography       OF_ls_navigator
-201121 26       0.3   3.0   ls_cartography
-211121 26       0.1   6.0   ls_cartography
+191121 25       0.7   3.0   ls_cartography       OF_ls_navigator
+201121 25       0.3   3.0   ls_cartography
+211121 25       0.1   6.0   ls_cartography
+221121 36       0.4   3.0   ls_cartography_web
+221121 25       0.4   2.0   ls_cartography
