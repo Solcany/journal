@@ -173,3 +173,12 @@
 211121 25       0.1   6.0   ls_cartography
 221121 36       0.4   3.0   ls_cartography_web
 221121 25       0.4   2.0   ls_cartography
+231121 36       0.3   4.0   ls_cartography_web
+241121 27       0.8   2.0   ls_cartography_web
+251121 27       0.8   2.0   ls_cartography_web 
+261121 27       0.1   6.0   ls_cartography_web
+271121 00       0.0   0.0   
+281121 00       0.0   0.0   
+291121 36       0.6   2.0   ls_cartography_web
+291121 27       0.6   3.0   ls_cartography_web
+301121 28       0.7   6.0   ls_cartography_web   lat_garden_release
