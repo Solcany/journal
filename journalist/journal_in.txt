@@ -31,3 +31,4 @@
 111121 42       0.6   1.5   ls_cartography
 021221 42       0.4   2.0   ls_cartography
 071221 43       0.4   2.0   gan
+081221 42       0.4   1.0   svelte
