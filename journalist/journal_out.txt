@@ -184,3 +184,9 @@
 301121 28       0.7   6.0   ls_cartography_web   lat_garden_release
 011221 00       0.0   0.0   
 021221 24       0.4   2.0   ls_cartography
+031221 00       0.0   0.0   
+041221 00       0.0   0.0   
+051221 00       0.0   0.0   
+061221 00       0.0   0.0   
+071221 25       0.3   3.0   ls_cartography
+081221 25       0.6   3.5   ls_cartography
