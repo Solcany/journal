@@ -192,3 +192,7 @@
 081221 36       0.4   1.0   lsc_web
 081221 25       0.6   1.5   ls_cartography
 081221 27       0.4   1.0   lsc_web
+091221 27       0.7   2.0   lsc_web
+101221 25       0.6   1.5   ls_cartography       gan_over_tcp
+111221 23       0.4   2.0   superparser
+121221 23       0.4   1.0   superparser
