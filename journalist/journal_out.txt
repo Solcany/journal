@@ -196,3 +196,4 @@
 101221 25       0.6   1.5   ls_cartography       gan_over_tcp
 111221 23       0.4   2.0   superparser
 121221 23       0.4   1.0   superparser
+131221 25       0.3   4.0   ls_cartography
